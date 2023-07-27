@@ -1,0 +1,32 @@
+* {
+    border: 1px dashed #000;
+    padding: 10px;
+    /* Adjust any other styling as needed */
+  }
+
+
+header {
+    background-color: #1f2937;
+    padding: 10px;
+    color: #f9faf8;
+    padding-right: 150px;
+    padding-left: 150px;
+  }
+  
+  .header-container {
+    display: flex;
+    align-items: center;
+    padding: 1px;
+  }
+  
+  .h-item1 {
+    /* Adjust the width of the logo container as per your design */
+    flex: 1;
+  }
+  
+  .h-item2,
+  .h-item3,
+  .h-item4 {
+    /* Add any desired styling for the header links */
+    margin-left: 2px;
+  }
